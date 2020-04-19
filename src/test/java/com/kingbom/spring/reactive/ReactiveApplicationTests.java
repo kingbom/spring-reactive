@@ -1,6 +1,10 @@
 package com.kingbom.spring.reactive;
 
-class ReactiveApplicationTests {
+import org.junit.Test;
 
+public class ReactiveApplicationTests {
 
+    @Test
+    public void context() {
+    }
 }
